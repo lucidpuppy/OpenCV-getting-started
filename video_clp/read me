@@ -1,0 +1,18 @@
+commandLineParser
+VideoCapture from file or webcam
+
+tried doing this
+
+./app sample.avi lana.jpeg
+
+doesn't works like that
+
+./app 
+
+it works -> opens cam and then lana
+
+./app lana.jpeg  works only for lana
+
+./app sample.avi deosnt works
+
+works only one argument at a time
